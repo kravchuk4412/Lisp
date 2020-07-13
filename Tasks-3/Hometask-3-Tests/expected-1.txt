@@ -1,0 +1,4 @@
+0,0,Dmytro,Ivanov,21,1,Skoda,Green,2011
+1,1,Petro,Petrov,23,2,Soul,White,2005
+2,3,Dmytro,Kravzov,27,0,Volga,Black,1980
+3,3,Dmytro,Kravzov,27,1,Skoda,Green,2011

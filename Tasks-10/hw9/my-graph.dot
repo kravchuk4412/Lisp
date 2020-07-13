@@ -1,0 +1,18 @@
+digraph G {
+graph [];
+
+0 [label="#<START OF PROGRAM>", ];
+1 [label="#<($IF a)>", ];
+2 [label="#<($STMT a = a + 1;)>", ];
+3 [label="#<($STMT a = a - 1;)>", ];
+4 [label="#<($STMT a = a + 2;)>", ];
+5 [label="#<($STMT a = a - 2;)>", ];
+6 [label="#<END OF PROGRAM>", ];
+0->1 [];
+1->2 [];
+2->3 [];
+1->4 [];
+4->5 [];
+3->6 [];
+5->6 [];
+}

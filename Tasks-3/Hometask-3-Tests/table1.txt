@@ -1,0 +1,4 @@
+0,Dmytro,Ivanov,21
+1,Petro,Petrov,23
+2,Maxim,Sidorov,20
+3,Dmytro,Kravzov,27
